@@ -14,7 +14,6 @@ The main technologies used in this project are as follows:
 - VLAN
 - Inter-VLAN Routing
 - DHCP Server
-- QoS
 - HSRP
 
 ## Devices
